@@ -1,5 +1,5 @@
 <?php
     include 'data.php';
     header('Content-Type: application/json');
-    echo $database;
+    echo $graphs_database;
 ?>
